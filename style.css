@@ -1,0 +1,89 @@
+.header{
+    background: #1f2937;
+    color: white;
+    padding: 20px 100px;
+    display: flex;
+    justify-content : space-between;
+    align-items: center;
+}
+.nav a{
+    margin-left: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+.Hero{
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 80px;
+
+}
+.Heroimage{
+    width: 500px;
+    height : 200px;
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Hero button{
+    background: #3882f6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+
+}
+.info{
+    text-align: center;
+    padding: 60px 80px;
+}
+.info-cards{
+display: flex;
+justify-content: center;
+gap: 30px;
+margin-top: 30px;
+}
+.card{
+    width: 150px;
+    height: 150px;
+    border: 3px solid #3882f6;
+    border-radius: 10px;
+}.info h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #1f2937;
+    text-align: center;
+}
+.quotes {
+    background: gray;
+    margin-bottom: 50px;
+    padding: 80px, 120px;
+    text-align: center;
+    font-size: 24px;}
+    .auther{
+        text-align: right;
+        font-weight: bold;
+    }
+    .cta {
+        background: #3882f6;
+        color : white;
+        margin: 80px;
+        border-radius: 10px;
+        padding: 40px 80px;
+    }
+    .cta-content{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .cta button{
+        background: white;
+        color: #3882f6;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+    }
